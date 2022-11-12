@@ -12,6 +12,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="container mx-auto flex min-h-screen flex-col items-center justify-center p-4">
+        <audio id="audio" />
         <h1 className="text-5xl font-extrabold leading-normal text-green-900 md:text-[5rem]">
           Hey, listen.
         </h1>
@@ -45,11 +46,7 @@ type CardProps = {
   documentation: string;
 };
 
-const Card: React.FC<CardProps> = ({
-  name,
-  description,
-  documentation,
-}) => {
+const Card: React.FC<CardProps> = ({ name, description, documentation }) => {
   return (
     <section className="flex flex-col justify-center rounded border-2 border-gray-500 p-6 shadow-xl duration-500 motion-safe:hover:scale-105">
       <h2 className="text-lg text-gray-700">{name}</h2>
