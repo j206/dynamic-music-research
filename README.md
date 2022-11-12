@@ -1,5 +1,5 @@
 # **dynamic music research**
-It is of the utmost importance to myself that I learn how to do this.  
+Portfolio prep.  
 Source/Reference: https://cschnack.de/blog/2020/webaudio/
 
 # Random Notes
