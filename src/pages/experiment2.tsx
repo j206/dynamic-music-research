@@ -5,7 +5,7 @@ export default function experiment2() {
     <div className="p-4">
       <h1 className="text-xl font-bold">Experiment 2</h1>
       <main>
-        <li>WIP</li>
+        <li>Initializing audio using dummy buffer.</li>
       </main>
     </div>
   );
