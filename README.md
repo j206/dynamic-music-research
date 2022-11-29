@@ -1,5 +1,5 @@
 # **dynamic music research**
-Portfolio prep.  
+Idea for future portfolio. Original music.  
 Source/Reference: https://cschnack.de/blog/2020/webaudio/
 
 # Random Notes
